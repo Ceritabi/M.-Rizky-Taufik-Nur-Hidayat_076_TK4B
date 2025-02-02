@@ -8,7 +8,7 @@ Kelas: TK4B
 
 
 <h1 style="font-weight: bold;">
-  JUDUL PERCOBAAN
+  PENGKABELAN/CABLING
 </h1 >
 <hr>
 <h2>Membuat / griping Kabel Straight dan cross</h2>
