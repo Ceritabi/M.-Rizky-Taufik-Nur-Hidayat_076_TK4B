@@ -29,7 +29,7 @@ Kelas: TK4B
  
 
 <br>
- <h4>Lan Cable Tester</h4>
+ <h4>LAN Cable Tester</h4>
  <img  src="kabel tester.jpeg" alt="cable"  width="300px">
  
 
@@ -41,29 +41,61 @@ Kelas: TK4B
 teknik pengkabelan, yaitu Straight dan Crossoverdengan konektor RJ45. Kabel yang digunakan adalah
 kabel UTP dan melakukan pengujian setelah dirangkai menggunakan LAN Tester.</p>
 
-<h3>Berikut adalah langkah-langkah untuk crimping kabel UTP</h3>
+<h3>Berikut adalah langkah-langkah untuk Perakitan kabel UTP</h3>
 
 <ol>
+  <li>Perakitan kabel straight</li>
+  <ul>
   <li>Memotong kabel UTP sepanjang kurang lebih 25 cm</li>
   <li>Mengupas pelindung luar kabel sepanjang kurang lebih 4 cm</li>
-   <img  src="free cable.jpg" alt="cable"  width="300px">
-  <li>Menyusun pasangan kabel sesuai standar Staright (putih-oranye, oranye, putih-hijau, biru, putih-biru, hijau, putih-coklat, coklat).</li>
+   <img  src="kabel UTP.jpeg" alt="cable"  width="300px">
+  <li>Menyusun pasangan kabel sesuai standar Staright sebagai berikut. </li>
+    <img  src="straight.png" alt="cable"  width="300px">
   <li>Memasukkan kabel ke konektor RJ45.</li>
-   <img  src="corss dan straight.jpg" alt="cable"  width="300px">
+    <img  src="perakitan.jpeg" alt="cable"  width="300px">
    <li>Melakukan crimping menggunakan crimping tool.</li>
-  <img  src="griping.jpg" alt="cable"  width="300px">
    <li>Menguji kabel menggunakan LAN Tester.</li>
+  </ul>
+  <br>
 
-<li>Periksa koneksi: Periksa koneksi dengan menggunakan tester kabel.</li>
-  <img  src="straight.jpg" alt="cable"  width="300px">
-  <h3>straight cable</h3>
-  <img  src="cross.jpg" alt="cable"  width="300px">
+  <li>Pembuatan kabel cross</li>
+  <ul>
+    <li>Langkah yang sama dengan kabel straight-through, namun dengan susunan warna
+kabel yang berbeda pada salah satu ujungnya. Dengan Standar Cross sebagai berikut.</li>
+     <img  src="cross.png" alt="cable"  width="300px">
+  </ul>
+  <br>
+  
+<li>Pengujian Kabel.</li>
+  <ul>
+    <h3>straight cable</h3>
+  <img  src="percobaan straight.jpeg" alt="cable"  width="300px">
+
   <h3>cross cable</h3>
+  <img  src="percobaan cross.jpeg" alt="cable"  width="300px">
+  
+  </ul>
 </ol>
+
+<p>Kabel UTP yang telah dirakit berhasil diuji menggunakan LAN Cable Tester dan menunjukkan hasil yang
+baik, di mana seluruh jalur koneksi berfungsi dengan benar. Pada pengujian kabel dengan tipe Straight,
+maka indicator lampu pada LAN Tester akan berjalan sesuai urutan Straight. Dan pada saat pengujian
+kabel dengan tipe Cross, maka lampu indicator lampu pada LAN Tester akan hidup secara menyilang
+sesuai dengan urutan warna kabel Cross Hal ini menandakan bahwa kabel siap digunakan untuk
+keperluan jaringan komputer. </p>
 
 <hr>
 
 <h2>Analisis Percobaan :</h2>
+<h4>Tujuan</h4>
+<ol>
+  <li>Memahami pengkabelan Straight menggunakan kabel UTP dan RJ45.</li>
+  <li>Memahami pengkabelan Crossover menggunakan kabel UTP dan RJ45.</li>
+  <li>Memeriksa koneksi kabel Straight dengan menggunakan Kabel Tester.</li>
+  <li>Memeriksa koneksi kabel Crossover dengan menggunakan Kabel Tester.</li>
+</ol>
+
+<br>
 <p>Dalam percobaan ini, dilakukan proses perakitan kabel jaringan menggunakan
 kabel UTP dengan konektor RJ45 serta pengujian menggunakan LAN Cable Tester. Terdapat dua
 metode penyusunan kabel yang digunakan, yaitu Straight dan Cross, yang masing-masing memiliki
@@ -88,17 +120,18 @@ komputer atau switch ke switch tanpa memerlukan port khusus (uplink).</li>
 
 <hr>
 <h2>Kesimpulan :</h2>
-<p>Berdasarkan hasil analisis percobaan, dapat disimpulkan bahwa proses
-perakitan kabel jaringan menggunakan kabel UTP dan konektor RJ45 berhasil dilakukan
-dengan baik. Keberhasilan ini ditunjukkan dengan hasil uji menggunakan LAN Cable Tester,
-yang menunjukkan bahwa seluruh jalur koneksi berfungsi dengan benar.</p>
+<p>Berdasarkan hasil analisis percobaan, dapat disimpulkan bahwa proses perakitan kabel jaringan
+menggunakan kabel UTP dan konektor RJ45 berhasil dilakukan dengan baik. Keberhasilan ini
+ditunjukkan dengan hasil uji menggunakan LAN Tester, yang menunjukkan bahwa seluruh jalur
+koneksi berfungsi dengan benar. Pengujian menggunakan LAN Tester penting untuk memastikan
+koneksi telah sesuai sebelum kabel digunakan dalam instalasi jaringan.</p>
 
 <br>
 
 <p>Selain itu, pemahaman mengenai perbedaan antara kabel Straight dan Cross sangat penting dalam
 konfigurasi jaringan. Kabel Straight digunakan untuk menghubungkan perangkat berbeda seperti
-komputer ke switch atau router ke modem, sedangkan kabel Cross digunakan untuk menghubungkan
-perangkat sejenis seperti komputer ke komputer atau switch ke switch.</p>
+komputer ke switch atau router ke modem, sedangkan kabel Cross digunakan untuk
+menghubungkan perangkat sejenis seperti komputer ke komputer atau switch ke switch.</p>
 
 
  
