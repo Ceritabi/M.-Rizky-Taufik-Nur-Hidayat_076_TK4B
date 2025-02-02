@@ -13,46 +13,47 @@ Kelas: TK4B
 <hr>
 <h2>Membuat / griping Kabel Straight dan cross</h2>
 
-<h3> Alat dan Bahan </h3>
- <img  src="free cable.jpg" alt="cable"  width="300px">
- <h4>Kabel UTP</h4>
+<h3> Alat dan Bahan </h3> 
+<h4>Kabel UTP</h4>
+ <img  src="kabel UTP.jpeg" alt="cable"  width="300px">
+ 
 
 <br>
- 
- <img  src="conector rj45.jpg" alt="cable"  width="300px">
  <h4>Konektor RJ454</h4>
+ <img  src="konektor r34.jpeg" alt="cable"  width="300px">
+ 
  
 <br>
- 
- <img  src="griping.jpg" alt="cable"  width="300px">
  <h4>Crimping Tool</h4>
+ <img  src="crimping tool.jpeg" alt="cable"  width="300px">
+ 
 
 <br>
- 
- <img  src="tester.jpg" alt="cable"  width="300px">
  <h4>Lan Cable Tester</h4>
+ <img  src="kabel tester.jpeg" alt="cable"  width="300px">
+ 
 
 <hr>
 
 <h2>Hasil Percobaan</h2>
 
-<p>Pada percobaan ini, saya melakukan proses pembuatan kabel jaringan
-menggunakan Kabel UTP (Unshielded Twisted Pair) dengan konektor RJ45, alat penjepit Crimping
-Tool, dan pengujian menggunakan LAN Cable Tester.</p>
+<p>Pada percobaan ini, dilakukan proses pembuatan dan pengujian kabel jaringan menggunakan dua jenis
+teknik pengkabelan, yaitu Straight dan Crossoverdengan konektor RJ45. Kabel yang digunakan adalah
+kabel UTP dan melakukan pengujian setelah dirangkai menggunakan LAN Tester.</p>
 
 <h3>Berikut adalah langkah-langkah untuk crimping kabel UTP</h3>
 
 <ol>
-  <li>Potong kabel UTP: Potong kabel UTP sesuai dengan panjang yang dibutuhkan</li>
-  <li>Buka isolasi kabel: Buka isolasi kabel UTP dengan menggunakan alat pembuka isolasi</li>
+  <li>Memotong kabel UTP sepanjang kurang lebih 25 cm</li>
+  <li>Mengupas pelindung luar kabel sepanjang kurang lebih 4 cm</li>
    <img  src="free cable.jpg" alt="cable"  width="300px">
-  <li>Urutkan kabel: Urutkan kabel UTP sesuai dengan standar TIA/EIA-568-B (putih-oranye, oranye, putih-hijau, biru, putih-biru, hijau, putih-coklat, coklat).</li>
-  <li>dan untuk cross Urutkan kabel: Urutkan kabel UTP sesuai dengan standar TIA/EIA-568-B (putih-oranye, oranye, putih-hijau, biru, putih-biru, hijau, putih-coklat, coklat), tetapi dengan urutan yang berbeda untuk kabel crossover.</li>
+  <li>Menyusun pasangan kabel sesuai standar Staright (putih-oranye, oranye, putih-hijau, biru, putih-biru, hijau, putih-coklat, coklat).</li>
+  <li>Memasukkan kabel ke konektor RJ45.</li>
    <img  src="corss dan straight.jpg" alt="cable"  width="300px">
-   <li>Masukkan kabel ke konektor: Masukkan kabel UTP ke konektor RJ-45 dengan hati-hati.</li>
-   <li>Crimping kabel: Gunakan alat crimping untuk menghubungkan kabel UTP ke konektor RJ-45.
-hasil:</li>
-<img  src="griping.jpg" alt="cable"  width="300px">
+   <li>Melakukan crimping menggunakan crimping tool.</li>
+  <img  src="griping.jpg" alt="cable"  width="300px">
+   <li>Menguji kabel menggunakan LAN Tester.</li>
+
 <li>Periksa koneksi: Periksa koneksi dengan menggunakan tester kabel.</li>
   <img  src="straight.jpg" alt="cable"  width="300px">
   <h3>straight cable</h3>
